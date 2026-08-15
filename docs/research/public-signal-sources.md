@@ -37,3 +37,17 @@ Constraints:
 ## Initial implication
 
 Public corporate filings provide a broad, evidence-backed expansion-event source. SAM.gov provides a highly structured but narrower transaction source. For the first Midas module, expansion radar can begin with public filings and other openly accessible company-event sources; procurement radar may later become a more direct signal-to-transaction module because the opportunity and deadline are explicit.
+
+## BLS context for food and beverage manufacturing
+
+Source: https://www.bls.gov/opub/mlr/2026/article/feeding-the-economy-employment-growth-in-food-and-beverage-manufacturing-expected-to-continue-through-the-2024-34-decade.htm
+
+A June 2026 BLS Monthly Labor Review article states that food and beverage manufacturing is projected to add the most jobs of any manufacturing sector from 2024 to 2034, with projected growth linked to output, population, consumer demand, and technology adoption. The article reports a projected addition of 130,000 jobs and identifies food and beverage manufacturing as the largest manufacturing sector by 2024 employment share.
+
+This is context rather than a company-level signal. It supports the industry as a durable operating category, but Midas still needs event-level evidence such as a facility announcement, production expansion, investment, acquisition, new site, or company-specific hiring pattern before creating an opportunity.
+
+## BLS JOLTS limitation
+
+Source: https://www.bls.gov/jlt/
+
+The BLS JOLTS program produces monthly and annual estimates of job openings, hires, and separations for the nation, plus state estimates at the total nonfarm industry level. This is useful for market context and later scoring calibration, but it does not identify a specific company with a persistent vacancy. Company-level Hiring-Friction Radar would require a separate permitted job-posting or company-research source.
